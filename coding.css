@@ -1,0 +1,22 @@
+#employee
+{
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  text-align: center;
+
+}
+img
+{
+    height: 100px;
+    width: 100px;
+}
+.detail
+{
+    padding: 20px;
+    border: 2px solid black;
+    width: 300px;
+    margin-left: 38%;
+    margin-top: 3%;
+
+}
